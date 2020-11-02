@@ -10,7 +10,7 @@ def get_strings():
     return itertools.chain(*strings)
 
 def make_dict():
-    f = open(file, 'a')
+    f = open(file, 'a')#this flie should same location with this flie#
     for x in list_str:
         for y in x:
             f.write("".join(y))
