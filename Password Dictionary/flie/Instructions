@@ -1,4 +1,0 @@
-#Instructions
-
-First: open CMD
-Second: enter the file directory and use this instructions: python work.py/flie name/ */min number/ */max number/ *.txt/output file name,the default is'a.txt'/ <>/output flie directory location/
